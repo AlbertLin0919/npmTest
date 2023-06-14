@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h2>HAHA</h2>
+      <h2 style={{ color: "red" }}>HAHA</h2>
       <h3>這是筆電使用的</h3>
       <div>
         <a href="https://vitejs.dev" target="_blank">
