@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h2 style={{ color: "blue" }}>HAHA</h2>
-      <h3>這是筆電使用的</h3>
+      <h3>小電腦</h3>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
