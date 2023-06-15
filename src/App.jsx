@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+      <p>你好</p>
       <h2 style={{ color: "red" }}>HAHA</h2>
       <h3>這台是大電腦</h3>
       <h2 style={{ color: "blue" }}>HAHA</h2>
