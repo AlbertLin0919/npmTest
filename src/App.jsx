@@ -8,10 +8,6 @@ function App() {
 
   return (
     <>
-      <h2 style={{ color: "red" }}>HAHA</h2>
-      <h3>這台是大電腦</h3>
-      <h2 style={{ color: "blue" }}>HAHA</h2>
-      <h3>小電腦</h3>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
